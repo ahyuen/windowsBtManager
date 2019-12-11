@@ -1,0 +1,15 @@
+E:\C#project\财神爷PHP批量更新\bin\Debug\财神爷PHP批量更新.exe.config
+E:\C#project\财神爷PHP批量更新\bin\Debug\财神爷PHP批量更新.exe
+E:\C#project\财神爷PHP批量更新\bin\Debug\财神爷PHP批量更新.pdb
+E:\C#project\财神爷PHP批量更新\obj\Debug\财神爷PHP批量更新.csprojAssemblyReference.cache
+E:\C#project\财神爷PHP批量更新\obj\Debug\财神爷PHP批量更新.Properties.Resources.resources
+E:\C#project\财神爷PHP批量更新\obj\Debug\财神爷PHP批量更新.csproj.GenerateResource.cache
+E:\C#project\财神爷PHP批量更新\obj\Debug\财神爷PHP批量更新.exe
+E:\C#project\财神爷PHP批量更新\obj\Debug\财神爷PHP批量更新.pdb
+E:\C#project\财神爷PHP批量更新\bin\Debug\RestSharp.dll
+E:\C#project\财神爷PHP批量更新\bin\Debug\RestSharp.xml
+E:\C#project\财神爷PHP批量更新\obj\Debug\财神爷PHP批量更新.csproj.CopyComplete
+E:\C#project\财神爷PHP批量更新\bin\Debug\Newtonsoft.Json.dll
+E:\C#project\财神爷PHP批量更新\bin\Debug\Newtonsoft.Json.xml
+E:\C#project\财神爷PHP批量更新\obj\Debug\财神爷PHP批量更新.MainWindows.resources
+E:\C#project\财神爷PHP批量更新\obj\Debug\财神爷PHP批量更新.batchAddSite.resources

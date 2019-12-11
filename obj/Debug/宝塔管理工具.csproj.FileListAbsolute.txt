@@ -1,0 +1,15 @@
+E:\C#project\财神爷PHP批量更新\obj\Debug\宝塔管理工具.csprojAssemblyReference.cache
+E:\C#project\财神爷PHP批量更新\obj\Debug\宝塔管理工具.Properties.Resources.resources
+E:\C#project\财神爷PHP批量更新\obj\Debug\宝塔管理工具.csproj.GenerateResource.cache
+E:\C#project\财神爷PHP批量更新\bin\Debug\宝塔管理工具.exe.config
+E:\C#project\财神爷PHP批量更新\bin\Debug\宝塔管理工具.exe
+E:\C#project\财神爷PHP批量更新\bin\Debug\宝塔管理工具.pdb
+E:\C#project\财神爷PHP批量更新\bin\Debug\Newtonsoft.Json.dll
+E:\C#project\财神爷PHP批量更新\bin\Debug\RestSharp.dll
+E:\C#project\财神爷PHP批量更新\bin\Debug\Newtonsoft.Json.xml
+E:\C#project\财神爷PHP批量更新\bin\Debug\RestSharp.xml
+E:\C#project\财神爷PHP批量更新\obj\Debug\宝塔管理工具.csproj.CopyComplete
+E:\C#project\财神爷PHP批量更新\obj\Debug\宝塔管理工具.exe
+E:\C#project\财神爷PHP批量更新\obj\Debug\宝塔管理工具.pdb
+E:\C#project\财神爷PHP批量更新\obj\Debug\宝塔管理工具.MainWindows.resources
+E:\C#project\财神爷PHP批量更新\obj\Debug\宝塔管理工具.SavaPropertiesForm.resources

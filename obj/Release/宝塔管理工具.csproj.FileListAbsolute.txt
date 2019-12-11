@@ -1,0 +1,13 @@
+E:\C#project\财神爷PHP批量更新\bin\Release\宝塔管理工具.exe.config
+E:\C#project\财神爷PHP批量更新\bin\Release\宝塔管理工具.exe
+E:\C#project\财神爷PHP批量更新\bin\Release\宝塔管理工具.pdb
+E:\C#project\财神爷PHP批量更新\bin\Release\Newtonsoft.Json.dll
+E:\C#project\财神爷PHP批量更新\bin\Release\RestSharp.dll
+E:\C#project\财神爷PHP批量更新\bin\Release\Newtonsoft.Json.xml
+E:\C#project\财神爷PHP批量更新\bin\Release\RestSharp.xml
+E:\C#project\财神爷PHP批量更新\obj\Release\宝塔管理工具.MainWindows.resources
+E:\C#project\财神爷PHP批量更新\obj\Release\宝塔管理工具.Properties.Resources.resources
+E:\C#project\财神爷PHP批量更新\obj\Release\宝塔管理工具.csproj.GenerateResource.cache
+E:\C#project\财神爷PHP批量更新\obj\Release\宝塔管理工具.csproj.CopyComplete
+E:\C#project\财神爷PHP批量更新\obj\Release\宝塔管理工具.exe
+E:\C#project\财神爷PHP批量更新\obj\Release\宝塔管理工具.pdb
